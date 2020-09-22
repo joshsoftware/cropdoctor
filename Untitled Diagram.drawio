@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T08:17:26.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="tD4Sk7Kld9DMp__4phR6" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-22T15:21:16.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="2xdixtNtgOMx4eRZqhgo" version="13.7.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#114B5F" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -83,7 +83,7 @@
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sudzJqYAnIuRQkvaS4UY-61" value="Secondary Income" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;sketch=0;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="710" width="160" height="120" as="geometry" />
+          <mxGeometry x="40" y="650" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="sudzJqYAnIuRQkvaS4UY-62" value="+ Name&#xa;+ Catergory&#xa;+ Description&#xa;+ Requirements&#xa;+ Govt_schemes" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#E4FDE1;" vertex="1" parent="sudzJqYAnIuRQkvaS4UY-61">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
