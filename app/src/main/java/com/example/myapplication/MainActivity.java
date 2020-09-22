@@ -6,7 +6,7 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
-
+import org.tensorflow.lite.Interpreter;
 import android.Manifest;
 import android.content.ContentValues;
 import android.content.DialogInterface;
@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int STORAGE_PERMISSION_CODE =1000;
     Uri image_uri;
     private static final int IMAGE_CAPTURE_CODE=1001, IMAGE_PICK_CODE=1000, PERMISSION_CODE=100;
-
+    Interpreter tflite;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -74,6 +74,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
+
     }
 
 
