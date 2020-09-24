@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.cropdoctor.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        />
+
+    <item
+        android:id="@+id/navigation_shop"
+        android:icon="@drawable/crop"
+        android:title="@string/title_shop"
+        app:showAsAction="always|withText"/>
+
+    <item
+        android:id="@+id/navigation_gifts"
+        android:icon="@drawable/calender"
+        android:title="@string/title_gifts"
+        app:showAsAction="always|withText"/>
+
+    <item
+        android:id="@+id/navigation_cart"
+        android:icon="@drawable/pol"
+        android:title="@string/title_cart"
+        app:showAsAction="always|withText"/>
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/person"
+        android:title="@string/title_profile"
+        app:showAsAction="always|withText"
+        />
+</menu>
