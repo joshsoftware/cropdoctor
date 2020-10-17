@@ -11,6 +11,7 @@
     <item
         android:id="@+id/navigation_shop"
         android:icon="@drawable/crop"
+
         android:title="@string/title_shop"
         app:showAsAction="always|withText"/>
 

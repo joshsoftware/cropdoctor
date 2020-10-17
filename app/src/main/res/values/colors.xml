@@ -4,8 +4,10 @@
 
     <color name="colorPrimary">#a4c639	</color>
     <color name="colorPrimaryDark">#738b28</color>
+    <color name="toolbar_color">#bebebe	</color>
     <color name="colorAccent">#f8fbf0</color>
-
+    <color name="year">#999999</color>
+    <color name="title">#222222</color>
     <color name="bgBottomNavigation">#a4c639</color>
 
 </resources>
